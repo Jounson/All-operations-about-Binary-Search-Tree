@@ -1,4 +1,5 @@
 # All-operations-about-Binary-Search-Tree
+what has mentioned above present all operations about BST(binary search tree)
 this part includes:
 void midOrderTraverse(BinaryTreeNode* root)
 void InsertDataToBinarySearchTreeCycleVersion(BinaryTreeNode** r, int data)
